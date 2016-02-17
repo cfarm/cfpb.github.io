@@ -4,7 +4,7 @@ published: true
 layout: post
 author: Mollie Bates
 title: Designing a quick, helpful guide to the complicated mortgage process
-permalink: your-home-loan-toolkit
+permalink: articles/your-home-loan-toolkit/
 
 ---
 
